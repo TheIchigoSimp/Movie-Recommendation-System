@@ -18,7 +18,7 @@ This is a content-based Movie Recommender System built using **Python**, **Panda
 - Asynchronous poster fetching for faster performance
 
 ## 🖼️ Demo
-_Deploying soon on Render... stay tuned!_
+https://movie-recommendation-system-19q1.onrender.com/
 
 ## 📦 Setup Instructions
 ```bash
